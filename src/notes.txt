@@ -1,0 +1,22 @@
+devemos fazer uma requsicao ao backend
+e armazenar o jwt que obtivermos com o cadastro
+dentro do nosso dispositivo 
+para armazer o token devemos utilizar 
+Async storage do react native que ja vem com 
+a blbioteca do react native
+
+
+encontrar uma forma de direcinar o usuario para 
+o fluxo de navegação principal apos o processo 
+de autenticação 
+ter navegação fora de um componente react é um processo 
+complicado
+
+hierarquia dos componentes 
+
+
+createAppContainer
+switchNavigator
+
+
+
